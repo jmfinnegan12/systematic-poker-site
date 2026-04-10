@@ -13,7 +13,7 @@ The project is an iterative process:
 1. play poker
 2. improve the tool to better analyze my performance
 3. study the output of the tool
-4. document and publish the findings
+4. document and publish my findings
 5. repeat
 
 My primary goal for this project is to become a better poker player. I want to use the tool to move from micro to small or mid stakes online. If I manage to do that, I expect that I will have built a useful tool, and I will want to keep challenging myself from there. I am documenting the process for myself and those interested.
